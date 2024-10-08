@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\bin\Debug\eventmanagement1.exe.config
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\bin\Debug\eventmanagement1.exe
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\bin\Debug\eventmanagement1.pdb
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.Form1.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.Properties.Resources.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.exe
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.pdb
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.loginform.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.adminform.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.userform.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.application.resources
+C:\Users\admin\source\repos\eventmanagement1\eventmanagement1\obj\Debug\eventmanagement1.applicationshow.resources
